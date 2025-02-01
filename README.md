@@ -14,7 +14,7 @@ Instalación
 
 Clona este repositorio o descarga los archivos.
 
-git clone https://github.com/tuusuario/dodge-the-blocks.git
+git clone https://github.com/tuusuario/block-game.git
 
 Instala las dependencias.
 
